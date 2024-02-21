@@ -1,0 +1,13 @@
+emailrep
+xlsxwriter
+PyPDF2
+pytesseract
+Pillow
+pdf2image
+selenium
+pyoti[jupyter_notebook]
+pyoti
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+streamlit

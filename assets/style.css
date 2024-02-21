@@ -1,0 +1,25 @@
+    /* style.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.sidebar .sidebar-content {
+    background-color: #f0f2f6;
+}
+
+.stFileUploader > div {
+    border: 2px dashed #0e1117;
+    border-radius: 20px;
+}
+
+.stTextInput>div>div>input {
+    border-radius: 20px;
+}
+
+.st-btn {
+    border-radius: 20px;
+}
+
+.stTextArea>div>div>textarea {
+    border-radius: 20px;
+}
